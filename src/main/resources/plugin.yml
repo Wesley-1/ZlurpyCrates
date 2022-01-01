@@ -1,0 +1,3 @@
+name: ZlurpyCrates
+version: ${project.version}
+main: zlurpycrates.zlurpycrates.ZlurpyCrates
